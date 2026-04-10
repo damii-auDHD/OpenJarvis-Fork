@@ -1,0 +1,13 @@
+[project]
+name = "jarvis-tray"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "keyboard>=0.13.5",
+    "pillow>=12.2.0",
+    "psutil>=7.2.2",
+    "pystray>=0.19.5",
+    "requests>=2.33.1",
+]
