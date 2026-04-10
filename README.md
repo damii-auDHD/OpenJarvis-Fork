@@ -1,5 +1,7 @@
 # ◈ Jarvis Tray
 
+> **Note:** 🚧 This project is a **Work In Progress**! I am constantly actively making updates, improvements, and tweaks. Things might break!
+
 A lightweight, agentic AI desktop assistant for Windows that lives in your system tray. Powered by Groq's fast inference (running `llama-3.3-70b-versatile`), Jarvis lies neatly in the background until summoned via a global hotkey (`Win + J`), offering instant access to a helpful, Marvel-inspired AI companion.
 
 Designed to be your actual local assistant, Jarvis is equipped with tools to interact directly with your system on your behalf.
